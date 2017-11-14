@@ -7,6 +7,7 @@
 	updated：更新后
 	beforeDestroy：销毁前
 	destroyed：销毁后
+
 	
 指令钩子：   5个
 	bind：第一次绑定时调用，初始化
@@ -48,3 +49,6 @@
 		beforeRouteLeave：
 			导航离开该组件的对应路由时调用
 			可以访问组件实例this
+
+
+2017-11-14
